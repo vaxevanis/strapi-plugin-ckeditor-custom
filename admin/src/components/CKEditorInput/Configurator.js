@@ -297,12 +297,22 @@ const CKEDITOR_BASE_CONFIG_FOR_PRESETS = {
     fontSize: {
       options: [
           9,
+          10
           11,
+          12,
           13,
+          14,
+          15,
+          16,
           'default',
           17,
+          18,
           19,
+          20,
           21,
+          22,
+          23,
+          24,
           27,
           35,
       ],
